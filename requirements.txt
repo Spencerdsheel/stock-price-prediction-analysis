@@ -1,0 +1,19 @@
+pandas
+pandas_datareader
+numpy
+matplotlib
+yfinance
+scipy
+streamlit
+regex
+nltk
+seaborn
+tensorflow
+Python-IO
+scikit-learn
+keras
+textblob
+Pillow
+wordcloud
+ipykernel
+-e .
